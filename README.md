@@ -4,12 +4,6 @@ Hi 👋 My name is Mark
 Fullstack developer, software engineer
 --------------------------------------
 
-Hi im Mark. I finished high school and right now Im working on react app. Before matura exam I studied a lot of data structures and algorithms. Now in free time apart from creating app im solving problems on leetcode. Im planning to lern more about SQL and master algorithms and data structures.
-
-* 🌍  I'm based in Poland, Toruń
-* ✉️  You can contact me at [mkretkowski131@gmail.com](mailto:mkretkowski131@gmail.com)
-* 🧠  I'm learning React, django, alghorithms and data structures
-
 ### Skills
 
 <p align="left">
