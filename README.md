@@ -27,7 +27,7 @@ Fullstack developer, software engineer, hobby game developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Mareczek1311" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Mareczek1311" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="128" height="128" /></a></p>
 
 
 ### Links to projects
