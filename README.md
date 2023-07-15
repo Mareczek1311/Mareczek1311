@@ -31,4 +31,4 @@ Fullstack developer, software engineer
 
 
 ### Links to projects
-## Brackeys Gamejam (HAOS Corp) [https://mareczek131.itch.io/chaos-corp](https://mareczek131.itch.io/chaos-corp)https://mareczek131.itch.io/chaos-corp
+## Brackeys Gamejam 2021 [Chaos Corp](https://mareczek131.itch.io/chaos-corp)
