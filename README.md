@@ -1,7 +1,7 @@
 Hi 👋 My name is Mark
 =====================
 
-Fullstack developer, software engineer
+Fullstack developer, software engineer, hobby game developer 
 --------------------------------------
 
 ### Skills
@@ -32,3 +32,5 @@ Fullstack developer, software engineer
 
 ### Links to projects
 ## Brackeys Gamejam 2021 [Chaos Corp](https://mareczek131.itch.io/chaos-corp)
+
+<a href="https://mareczek131.itch.io/chaos-corp" target="_blank" rel="noreferrer"><img src="https://img.itch.zone/aW1nLzY4NDgxMjQucG5n/315x250%23c/8qIKzN.png" width="36" height="36" alt="JavaScript" /></a>
