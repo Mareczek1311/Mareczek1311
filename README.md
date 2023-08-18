@@ -23,12 +23,11 @@ Fullstack developer, software engineer, hobby game developer
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 
 
-### Socials
-
-
-
-
 ### Links to projects
+
+
+<a href="https://github.com/Mareczek1311/Leviatan-Axe-Unity-Project/tree/main" target="_blank" rel="noreferrer"> ## Leviathan axe from God of War in Unity </a>
+
 ## Brackeys Gamejam 2021 "Chaos Corp"
 
 <a href="https://mareczek131.itch.io/chaos-corp" target="_blank" rel="noreferrer"><img src="https://img.itch.zone/aW1nLzY4NDgxMjQucG5n/315x250%23c/8qIKzN.png" width="128" height="128" alt="chaos" /></a>
