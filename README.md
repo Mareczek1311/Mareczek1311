@@ -25,8 +25,8 @@ Fullstack developer, software engineer, hobby game developer
 
 ### Links to projects
 
-
-<a href="https://github.com/Mareczek1311/Leviatan-Axe-Unity-Project/tree/main" target="_blank" rel="noreferrer"> ## Leviathan axe from God of War in Unity </a>
+## Leviathan axe from God of War in Unity
+<a href="https://github.com/Mareczek1311/Leviatan-Axe-Unity-Project/tree/main" target="_blank" rel="noreferrer"> Link to repo </a>
 
 ## Brackeys Gamejam 2021 "Chaos Corp"
 
