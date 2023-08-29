@@ -1,7 +1,7 @@
 Hi 👋 My name is Mark
 =====================
 
-Fullstack developer, software engineer, hobby game developer 
+Fullstack developer, software engineer, hobby game developer, CS student 
 --------------------------------------
 
 ### Skills
