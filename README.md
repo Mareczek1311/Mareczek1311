@@ -24,4 +24,4 @@
 ## Brackeys Gamejam 2021 "Chaos Corp"
 [![Chaos Corp](https://img.itch.zone/aW1nLzY4NDgxMjQucG5n/315x250%23c/8qIKzN.png)](https://mareczek131.itch.io/chaos-corp)
 
-Explore my projects and feel free to connect! 😊✨
+Explore my projects! 😊✨
