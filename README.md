@@ -3,7 +3,7 @@ hi,
 More stuff that isnt on my repo
 
 [LEETCODE PAGE](https://leetcode.com/Mareczek1311/)
-
+a
 # Links to Projects
 
 ## Brackeys Gamejam 2021 "Chaos Corp"
