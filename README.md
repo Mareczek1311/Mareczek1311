@@ -1,5 +1,5 @@
 hi, 
-
+Second-year computer science student here.
 More stuff that isnt on my repo
 
 [LEETCODE PAGE](https://leetcode.com/Mareczek1311/)
